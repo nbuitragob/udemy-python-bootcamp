@@ -1,0 +1,7 @@
+*/**/delete_this*
+**/delete_this*
+.ipynb_checkpoints/
+*/**/.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+**/**/.ipynb_checkpoints/
+
